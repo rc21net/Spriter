@@ -1,0 +1,22 @@
+{
+  "name": "spriter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Spriter.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rc21net/Spriter.git"
+  },
+  "author": "rc21 <rc21mail@gmail.com> (http://www.rc21net.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rc21net/Spriter/issues"
+  },
+  "homepage": "https://github.com/rc21net/Spriter#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "spritesmith": "^3.1.0",
+    "svg-sprite": "^1.3.6"
+  }
+}
